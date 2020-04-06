@@ -3,6 +3,8 @@ import Contact from "./components/Contact";
 
 function App() {
   return (
+    <router>
+    </router>
     <div className="App">
       <Contact
         name='Peter Palmer'
